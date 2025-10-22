@@ -1,0 +1,2134 @@
+{
+  "months": {
+    "2025-10": {
+      "label": "Outubro 2025",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "Pago",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "Pago",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "Pago",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "Pago",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "Pago",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "Pago",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "Pago",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "Pago",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "Pago",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "Pago",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "Pago",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "Pago",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "Pago",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "Pago",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "Pago",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "Pago",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "A confirmar",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "A confirmar",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "A confirmar",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2025-11": {
+      "label": "Novembro 2025",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2025-12": {
+      "label": "Dezembro 2025",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-01": {
+      "label": "Janeiro 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-02": {
+      "label": "Fevereiro 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-03": {
+      "label": "Março 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-04": {
+      "label": "Abril 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-05": {
+      "label": "Maio 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-06": {
+      "label": "Junho 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-07": {
+      "label": "Julho 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-08": {
+      "label": "Agosto 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-09": {
+      "label": "Setembro 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-10": {
+      "label": "Outubro 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-11": {
+      "label": "Novembro 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    },
+    "2026-12": {
+      "label": "Dezembro 2026",
+      "despesas": [
+        {
+          "categoria": "Casa",
+          "valor": 1110.0,
+          "situacao": "",
+          "obs": "💛"
+        },
+        {
+          "categoria": "Escola",
+          "valor": 1270.0,
+          "situacao": "",
+          "obs": "✝️🙏🏾"
+        },
+        {
+          "categoria": "Convênio",
+          "valor": 810.0,
+          "situacao": "",
+          "obs": "❤️"
+        },
+        {
+          "categoria": "Dia-a-Dia",
+          "valor": 1700.0,
+          "situacao": "A confirmar",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Combustível",
+          "valor": 700.0,
+          "situacao": "",
+          "obs": "🙌🏾"
+        },
+        {
+          "categoria": "Água",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💧"
+        },
+        {
+          "categoria": "Luz",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🔌"
+        },
+        {
+          "categoria": "IPTU",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🏠"
+        },
+        {
+          "categoria": "Internet",
+          "valor": 70.0,
+          "situacao": "",
+          "obs": "🌐"
+        },
+        {
+          "categoria": "Cantina",
+          "valor": 200.0,
+          "situacao": "",
+          "obs": "🍽️"
+        },
+        {
+          "categoria": "Bahia",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "🛍️"
+        },
+        {
+          "categoria": "Salão",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "💇🏽‍♀️"
+        },
+        {
+          "categoria": "Telefones",
+          "valor": 180.0,
+          "situacao": "",
+          "obs": "📱"
+        },
+        {
+          "categoria": "Compra",
+          "valor": 800.0,
+          "situacao": "",
+          "obs": "🛒"
+        },
+        {
+          "categoria": "TV",
+          "valor": 150.0,
+          "situacao": "",
+          "obs": "📺"
+        },
+        {
+          "categoria": "Seguro",
+          "valor": 300.0,
+          "situacao": "",
+          "obs": "🚗"
+        },
+        {
+          "categoria": "Carro",
+          "valor": 530.0,
+          "situacao": "",
+          "obs": "🏎️"
+        },
+        {
+          "categoria": "Cartão de Crédito",
+          "valor": 2500.0,
+          "situacao": "",
+          "obs": "💳"
+        },
+        {
+          "categoria": "Investimento",
+          "valor": 2000.0,
+          "situacao": "",
+          "obs": "📈"
+        },
+        {
+          "categoria": "Contabilidade",
+          "valor": 1300.0,
+          "situacao": "",
+          "obs": "📊"
+        }
+      ],
+      "total_despesas": 15000.0,
+      "entradas": [
+        {
+          "fonte": "Salário Letícia",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Salário Bruno",
+          "valor": 0.0
+        },
+        {
+          "fonte": "Extras (bicos, vendas, etc.)",
+          "valor": 0.0
+        }
+      ],
+      "total_entradas": 0.0,
+      "saldo": -15000.0
+    }
+  }
+}
